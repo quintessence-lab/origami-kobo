@@ -1,0 +1,76 @@
+{
+  "nav": {
+    "home": "Home",
+    "blog": "Articles",
+    "search": "Search",
+    "language": "日本語"
+  },
+  "home": {
+    "title": "Origami Kobo",
+    "subtitle": "Step-by-step guides for 50 origami designs",
+    "latestPosts": "Latest Articles",
+    "categories": "Categories",
+    "viewAll": "View All",
+    "heroDescription": "Discover origami tutorials for animals, flowers, vehicles, and more — for beginners to advanced folders, in Japanese and English"
+  },
+  "blog": {
+    "title": "Articles",
+    "allPosts": "All Articles",
+    "difficulty": "Difficulty",
+    "time": "Time",
+    "readMore": "Read More",
+    "steps": "Steps",
+    "materials": "Materials",
+    "tips": "Tips"
+  },
+  "category": {
+    "animals": "Animals",
+    "flowers": "Flowers & Plants",
+    "food": "Food",
+    "vehicles": "Vehicles",
+    "items": "Items",
+    "geometric": "Geometric & Art",
+    "seasonal": "Seasonal",
+    "title": "Categories"
+  },
+  "difficulty": {
+    "beginner": "Beginner",
+    "intermediate": "Intermediate",
+    "advanced": "Advanced"
+  },
+  "search": {
+    "title": "Search",
+    "placeholder": "Search for origami...",
+    "noResults": "No results found",
+    "results": "results",
+    "searching": "Searching..."
+  },
+  "affiliate": {
+    "title": "Recommended Origami Supplies",
+    "description": "Check out these origami paper sets on Amazon for this project",
+    "buyButton": "View on Amazon",
+    "disclaimer": "※This site contains affiliate links"
+  },
+  "share": {
+    "title": "Share this article",
+    "twitter": "Share on X",
+    "facebook": "Share on Facebook",
+    "line": "Share on LINE"
+  },
+  "footer": {
+    "tagline": "Bringing the joy of origami to the world",
+    "links": "Links",
+    "privacy": "Privacy Policy",
+    "affiliate_disclosure": "Affiliate Disclosure",
+    "copyright": "© 2024 Origami Kobo. All rights reserved."
+  },
+  "pagination": {
+    "prev": "Previous",
+    "next": "Next",
+    "page": "Page"
+  },
+  "meta": {
+    "siteTitle": "Origami Kobo",
+    "siteDescription": "Step-by-step origami folding guides for 50 designs in Japanese and English. Animals, flowers, vehicles and more for all skill levels."
+  }
+}

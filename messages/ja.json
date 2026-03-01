@@ -1,0 +1,76 @@
+{
+  "nav": {
+    "home": "ホーム",
+    "blog": "記事一覧",
+    "search": "検索",
+    "language": "English"
+  },
+  "home": {
+    "title": "折り紙工房",
+    "subtitle": "50種類の折り紙の折り方を丁寧に解説",
+    "latestPosts": "新着記事",
+    "categories": "カテゴリ",
+    "viewAll": "すべて見る",
+    "heroDescription": "動物・花・乗り物など、初心者から上級者まで楽しめる折り紙レシピを日英2言語でご紹介します"
+  },
+  "blog": {
+    "title": "記事一覧",
+    "allPosts": "すべての記事",
+    "difficulty": "難易度",
+    "time": "所要時間",
+    "readMore": "続きを読む",
+    "steps": "ステップ",
+    "materials": "必要なもの",
+    "tips": "ポイント"
+  },
+  "category": {
+    "animals": "動物",
+    "flowers": "花・植物",
+    "food": "食べ物",
+    "vehicles": "乗り物",
+    "items": "日用品・アイテム",
+    "geometric": "幾何学・アート",
+    "seasonal": "季節・イベント",
+    "title": "カテゴリ"
+  },
+  "difficulty": {
+    "beginner": "初級",
+    "intermediate": "中級",
+    "advanced": "上級"
+  },
+  "search": {
+    "title": "検索",
+    "placeholder": "折り紙の種類を検索...",
+    "noResults": "検索結果が見つかりませんでした",
+    "results": "件の結果",
+    "searching": "検索中..."
+  },
+  "affiliate": {
+    "title": "おすすめの折り紙グッズ",
+    "description": "この折り紙を作るのに適した折り紙セットをAmazonでご紹介します",
+    "buyButton": "Amazonで見る",
+    "disclaimer": "※当サイトはアフィリエイト広告を掲載しています"
+  },
+  "share": {
+    "title": "この記事をシェアする",
+    "twitter": "Xでシェア",
+    "facebook": "Facebookでシェア",
+    "line": "LINEでシェア"
+  },
+  "footer": {
+    "tagline": "折り紙の楽しさを世界へ",
+    "links": "リンク",
+    "privacy": "プライバシーポリシー",
+    "affiliate_disclosure": "アフィリエイト開示",
+    "copyright": "© 2024 折り紙工房. All rights reserved."
+  },
+  "pagination": {
+    "prev": "前へ",
+    "next": "次へ",
+    "page": "ページ"
+  },
+  "meta": {
+    "siteTitle": "折り紙工房",
+    "siteDescription": "50種類の折り紙の折り方を日英2言語で丁寧に解説。動物・花・乗り物など初心者から上級者まで楽しめます。"
+  }
+}

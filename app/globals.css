@@ -1,0 +1,80 @@
+@import "tailwindcss";
+
+@theme {
+  --color-cream: #FFFBF0;
+  --color-primary: #E07B54;
+  --color-primary-dark: #C4613C;
+  --color-secondary: #F5C518;
+  --color-text: #3D2B1F;
+  --color-text-muted: #7A5C4E;
+  --color-accent: #7B9E6B;
+  --color-accent-dark: #5F8050;
+  --color-border: #E8D5C4;
+  --color-card: #FFFFFF;
+}
+
+:root {
+  --background: #FFFBF0;
+  --foreground: #3D2B1F;
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+}
+
+/* スムーズスクロール */
+html {
+  scroll-behavior: smooth;
+}
+
+/* リンクのデフォルトスタイル */
+a {
+  color: var(--color-primary);
+  text-decoration: none;
+}
+
+/* Markdownコンテンツのスタイル */
+.prose h2 {
+  font-size: 1.5rem;
+  font-weight: 700;
+  color: #3D2B1F;
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+  padding-bottom: 0.5rem;
+  border-bottom: 2px solid #E8D5C4;
+}
+
+.prose h3 {
+  font-size: 1.25rem;
+  font-weight: 600;
+  color: #3D2B1F;
+  margin-top: 1.5rem;
+  margin-bottom: 0.75rem;
+}
+
+.prose ol {
+  list-style-type: decimal;
+  padding-left: 1.75rem;
+  space-y: 0.5rem;
+}
+
+.prose ul {
+  list-style-type: disc;
+  padding-left: 1.75rem;
+}
+
+.prose li {
+  margin-bottom: 0.5rem;
+  line-height: 1.7;
+}
+
+.prose p {
+  margin-bottom: 1rem;
+  line-height: 1.8;
+}
+
+.prose strong {
+  color: #E07B54;
+  font-weight: 700;
+}
