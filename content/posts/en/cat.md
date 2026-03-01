@@ -19,13 +19,37 @@ excerpt: "An adorable origami cat with pointed ears. A quick and easy fold that 
 ## Instructions
 
 1. Place the paper white side up and fold it diagonally to form a triangle
+
+![Step 1](/images/origami/steps/cat/step-1.svg)
+
 2. Position the triangle with the point at the top
+
+![Step 2](/images/origami/steps/cat/step-2.svg)
+
 3. Fold the bottom edge up about one-third of the way to create a straight edge at the bottom
+
+![Step 3](/images/origami/steps/cat/step-3.svg)
+
 4. Fold the left corner upward and to the right at an angle to form one ear
+
+![Step 4](/images/origami/steps/cat/step-4.svg)
+
 5. Fold the right corner upward and to the left at an angle to form the other ear
+
+![Step 5](/images/origami/steps/cat/step-5.svg)
+
 6. Flip the model over
+
+![Step 6](/images/origami/steps/cat/step-6.svg)
+
 7. Fold the top point down slightly to flatten the top of the head
+
+![Step 7](/images/origami/steps/cat/step-7.svg)
+
 8. Draw eyes, a nose, whiskers, and a mouth with a marker
+
+![Step 8](/images/origami/steps/cat/step-8.svg)
+
 
 ## Tips
 

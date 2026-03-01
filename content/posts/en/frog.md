@@ -18,12 +18,33 @@ excerpt: "A frog that actually jumps! Press its back and watch it hop. A favorit
 ## Instructions
 
 1. Fold the paper in half vertically, then unfold
+
+![Step 1](/images/origami/steps/frog/step-1.svg)
+
 2. Fold the top corners to create triangles, then collapse the top into a triangle shape
+
+![Step 2](/images/origami/steps/frog/step-2.svg)
+
 3. Fold the left and right corners of the triangle up to the top point
+
+![Step 3](/images/origami/steps/frog/step-3.svg)
+
 4. Fold those flaps outward to create the front legs
+
+![Step 4](/images/origami/steps/frog/step-4.svg)
+
 5. Fold the bottom half up toward the top
+
+![Step 5](/images/origami/steps/frog/step-5.svg)
+
 6. Fold it back down to create an accordion fold (this forms the back legs and spring)
+
+![Step 6](/images/origami/steps/frog/step-6.svg)
+
 7. Flip over and you're done!
+
+![Step 7](/images/origami/steps/frog/step-7.svg)
+
 
 ## Tips
 

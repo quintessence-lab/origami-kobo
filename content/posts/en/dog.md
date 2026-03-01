@@ -19,13 +19,37 @@ excerpt: "A cute origami dog that's perfect for beginners. Simple folds make an 
 ## Instructions
 
 1. Place the paper white side up and fold it diagonally to form a triangle
+
+![Step 1](/images/origami/steps/dog/step-1.svg)
+
 2. Position the triangle with the long edge at the top
+
+![Step 2](/images/origami/steps/dog/step-2.svg)
+
 3. Fold the left and right corners of the top edge downward at an angle to create floppy ears
+
+![Step 3](/images/origami/steps/dog/step-3.svg)
+
 4. Fold the bottom point of the front layer upward slightly to form the chin
+
+![Step 4](/images/origami/steps/dog/step-4.svg)
+
 5. Fold a small portion of the chin back down to shape the nose area
+
+![Step 5](/images/origami/steps/dog/step-5.svg)
+
 6. Flip the model over
+
+![Step 6](/images/origami/steps/dog/step-6.svg)
+
 7. Fold the bottom point up to create the back of the head
+
+![Step 7](/images/origami/steps/dog/step-7.svg)
+
 8. Flip back to the front and draw eyes and a nose with a marker
+
+![Step 8](/images/origami/steps/dog/step-8.svg)
+
 
 ## Tips
 

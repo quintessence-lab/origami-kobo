@@ -18,13 +18,37 @@ excerpt: "長い鼻が特徴のゾウ。折り紙1枚で鼻・耳・体を表現
 ## 折り方
 
 1. 折り紙を対角線で折り、折り目をつけて広げます
+
+![ステップ1](/images/origami/steps/elephant/step-1.svg)
+
 2. 左右の辺を中央線に合わせて折ります（凧の形）
+
+![ステップ2](/images/origami/steps/elephant/step-2.svg)
+
 3. 上下を逆にします
+
+![ステップ3](/images/origami/steps/elephant/step-3.svg)
+
 4. 尖った方（鼻になる）を下にして、上の角を下に折り下げます
+
+![ステップ4](/images/origami/steps/elephant/step-4.svg)
+
 5. 左右に広がる部分を外側に折り出します（耳になります）
+
+![ステップ5](/images/origami/steps/elephant/step-5.svg)
+
 6. 鼻の部分を段折り（ジグザグ）にして鼻の形を作ります
+
+![ステップ6](/images/origami/steps/elephant/step-6.svg)
+
 7. 裏返して、体の左右を少し内側に折って丸みを出します
+
+![ステップ7](/images/origami/steps/elephant/step-7.svg)
+
 8. 目を描いて完成です
+
+![ステップ8](/images/origami/steps/elephant/step-8.svg)
+
 
 ## ポイント
 

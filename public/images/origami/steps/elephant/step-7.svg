@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+<rect width="200" height="200" rx="12" fill="#FFF8F0"/>
+<defs>
+  <marker id="ah" markerWidth="8" markerHeight="6" refX="8" refY="3" orient="auto">
+    <path d="M0,0 L8,3 L0,6" fill="#E07B54"/>
+  </marker>
+</defs>
+<polygon points="70,60 130,60 130,100 70,100" fill="#F4A460" opacity="0.9"/>
+<polygon points="70,100 100,140 130,100" fill="#D4884A" opacity="0.5"/>
+<path d="M85,130 L85,140 L85,135 L85,145" stroke="#CC8855" stroke-width="1.5" stroke-dasharray="3,2"/>
+<polygon points="85,130 100,150 115,130 105,135 100,145 95,135" fill="#D4884A" opacity="0.7"/>
+<text x="100" y="185" font-family="sans-serif" font-size="11" fill="#3D2B1F" text-anchor="middle">段折り（鼻）</text>
+</svg>

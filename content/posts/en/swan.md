@@ -18,16 +18,49 @@ excerpt: "A graceful origami swan with an elegant curved neck. A beautiful model
 ## Instructions
 
 1. Place the paper white side up with a corner pointing toward you (diamond shape)
+
+![Step 1](/images/origami/steps/swan/step-1.svg)
+
 2. Fold the left and right edges to meet the center line (kite base)
+
+![Step 2](/images/origami/steps/swan/step-2.svg)
+
 3. Flip the model over
+
+![Step 3](/images/origami/steps/swan/step-3.svg)
+
 4. Fold the left and right edges to the center line again, forming a narrow diamond
+
+![Step 4](/images/origami/steps/swan/step-4.svg)
+
 5. Fold the bottom point up to meet the top point
+
+![Step 5](/images/origami/steps/swan/step-5.svg)
+
 6. Fold the narrow bottom point upward and outward at an angle to form the neck
+
+![Step 6](/images/origami/steps/swan/step-6.svg)
+
 7. Fold the tip of the neck down at a small angle to create the head and beak
+
+![Step 7](/images/origami/steps/swan/step-7.svg)
+
 8. Fold the entire model in half along the vertical center line
+
+![Step 8](/images/origami/steps/swan/step-8.svg)
+
 9. Gently pull the neck upward and away from the body, pressing the base fold to hold it
+
+![Step 9](/images/origami/steps/swan/step-9.svg)
+
 10. Pull the head forward slightly and press to set its position
+
+![Step 10](/images/origami/steps/swan/step-10.svg)
+
 11. Spread the base of the body apart so the swan can stand
+
+![Step 11](/images/origami/steps/swan/step-11.svg)
+
 
 ## Tips
 

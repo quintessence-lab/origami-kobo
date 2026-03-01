@@ -19,11 +19,29 @@ excerpt: "A simple origami fish that's one of the quickest models to fold. Perfe
 ## Instructions
 
 1. Place the paper colored side up with a corner pointing toward you (diamond shape)
+
+![Step 1](/images/origami/steps/fish/step-1.svg)
+
 2. Fold the left corner over to meet the right corner, forming a triangle
+
+![Step 2](/images/origami/steps/fish/step-2.svg)
+
 3. Fold the top layer of the right corner back to the left, stopping about 2cm before the edge
+
+![Step 3](/images/origami/steps/fish/step-3.svg)
+
 4. Fold a small portion of that flap back to the right to create the tail fin
+
+![Step 4](/images/origami/steps/fish/step-4.svg)
+
 5. Flip the model over
+
+![Step 5](/images/origami/steps/fish/step-5.svg)
+
 6. Draw an eye on the front side
+
+![Step 6](/images/origami/steps/fish/step-6.svg)
+
 
 ## Tips
 

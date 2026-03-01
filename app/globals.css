@@ -78,3 +78,14 @@ a {
   color: #E07B54;
   font-weight: 700;
 }
+
+/* ステップ折り図画像 */
+.prose img[src*="/steps/"] {
+  display: block;
+  margin: 0.75rem auto;
+  max-width: 240px;
+  width: 100%;
+  border: 2px solid #E8D5C4;
+  border-radius: 12px;
+  background: #FFF8F0;
+}

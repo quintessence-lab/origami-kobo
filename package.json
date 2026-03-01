@@ -7,7 +7,9 @@
     "build": "next build",
     "start": "next start",
     "lint": "eslint",
-    "generate:svg": "tsx scripts/generate-svg.ts"
+    "generate:svg": "tsx scripts/generate-svg.ts",
+    "generate:step-svg": "tsx scripts/generate-step-svg.ts",
+    "insert:step-images": "tsx scripts/insert-step-images.ts"
   },
   "dependencies": {
     "fuse.js": "^7.1.0",
