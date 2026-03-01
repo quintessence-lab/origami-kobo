@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+<rect width="200" height="200" rx="12" fill="#FFF8F0"/>
+<defs>
+  <marker id="ah" markerWidth="8" markerHeight="6" refX="8" refY="3" orient="auto">
+    <path d="M0,0 L8,3 L0,6" fill="#E07B54"/>
+  </marker>
+</defs>
+<polygon points="85,30 115,30 140,145 60,145" fill="#E05050" opacity="0.9"/>
+<polygon points="60,145 140,145 135,125 65,125" fill="#FEFEFE" opacity="0.8"/>
+<polygon points="80,130 100,145 120,130" fill="#E05050" opacity="0.4"/>
+<path d="M100,123 Q105,130 102,140" stroke="#E07B54" stroke-width="2" fill="none" marker-end="url(#ah)"/>
+</svg>

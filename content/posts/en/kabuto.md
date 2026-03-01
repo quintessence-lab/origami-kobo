@@ -18,11 +18,29 @@ excerpt: "A traditional samurai helmet that kids can actually wear! A classic or
 ## Instructions
 
 1. Place the paper colored side down and fold it in half diagonally to make a triangle with the point at the top
+
+![Step 1](/images/origami/steps/kabuto/step-1.svg)
+
 2. Fold the left and right corners up to meet the top point, forming a diamond shape
+
+![Step 2](/images/origami/steps/kabuto/step-2.svg)
+
 3. Fold those same two flaps down and outward — the tips should point to the left and right like horns
+
+![Step 3](/images/origami/steps/kabuto/step-3.svg)
+
 4. Take the front layer of the bottom section and fold it up to the base of the triangle, stopping at the horizontal center line
+
+![Step 4](/images/origami/steps/kabuto/step-4.svg)
+
 5. Fold that same flap up one more time to create the brim of the helmet
+
+![Step 5](/images/origami/steps/kabuto/step-5.svg)
+
 6. Tuck the remaining back layer of paper behind the helmet or fold it up inside
+
+![Step 6](/images/origami/steps/kabuto/step-6.svg)
+
 
 ## Tips
 

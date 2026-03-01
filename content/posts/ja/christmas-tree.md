@@ -20,16 +20,40 @@ excerpt: "3段重ねの立体クリスマスツリー。テーブルの上に飾
 ## 折り方（木の部分、各サイズ共通）
 
 1. 折り紙を三角形に折ります
+
+![ステップ1](/images/origami/steps/christmas-tree/step-1.svg)
+
 2. もう一度三角形に折ります
+
+![ステップ2](/images/origami/steps/christmas-tree/step-2.svg)
+
 3. 上の1枚を開いて四角形につぶします
+
+![ステップ3](/images/origami/steps/christmas-tree/step-3.svg)
+
 4. 裏返して同じようにつぶします
+
+![ステップ4](/images/origami/steps/christmas-tree/step-4.svg)
+
 5. 左右の辺を中央に合わせて折ります（前後両面）
+
+![ステップ5](/images/origami/steps/christmas-tree/step-5.svg)
+
 6. 底を開いて自立するように整えます
+
+![ステップ6](/images/origami/steps/christmas-tree/step-6.svg)
+
 
 ## 折り方（幹）
 
 1. 茶色の折り紙を細く丸めて筒状にします
+
+![ステップ7](/images/origami/steps/christmas-tree/step-7.svg)
+
 2. のりで固定します
+
+![ステップ8](/images/origami/steps/christmas-tree/step-8.svg)
+
 
 ## 組み立て
 

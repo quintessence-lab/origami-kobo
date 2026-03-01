@@ -19,10 +19,25 @@ excerpt: "端午の節句に飾るこいのぼり。赤・青・黒の3色で親
 ## 折り方
 
 1. 折り紙を横に半分に折り、折り目をつけて広げます
+
+![ステップ1](/images/origami/steps/carp-streamer/step-1.svg)
+
 2. 左の辺を中央の線より1cmほど手前に折ります
+
+![ステップ2](/images/origami/steps/carp-streamer/step-2.svg)
+
 3. 右の上下の角を三角に折ります（尾びれ）
+
+![ステップ3](/images/origami/steps/carp-streamer/step-3.svg)
+
 4. 上下の辺を中央に向けて折ります
+
+![ステップ4](/images/origami/steps/carp-streamer/step-4.svg)
+
 5. 左端を1cmほど折り返します（口の部分）
+
+![ステップ5](/images/origami/steps/carp-streamer/step-5.svg)
+
 
 ## 仕上げ
 

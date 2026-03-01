@@ -19,11 +19,29 @@ excerpt: "A colorful carp streamer celebrating Children's Day. Fold a family of 
 ## Instructions
 
 1. Place the paper colored side up and fold it in half lengthwise to create a rectangle
+
+![Step 1](/images/origami/steps/carp-streamer/step-1.svg)
+
 2. Unfold and fold both long edges to the center crease
+
+![Step 2](/images/origami/steps/carp-streamer/step-2.svg)
+
 3. Fold the paper in half along the original center crease (the colored side should be on the outside)
+
+![Step 3](/images/origami/steps/carp-streamer/step-3.svg)
+
 4. At one end, fold the top and bottom corners outward at an angle to form the tail fin — the folds should fan out like a V
+
+![Step 4](/images/origami/steps/carp-streamer/step-4.svg)
+
 5. At the other end, fold a small triangle inward on the top and bottom layers to round the mouth
+
+![Step 5](/images/origami/steps/carp-streamer/step-5.svg)
+
 6. Open the body slightly so the koinobori has a three-dimensional shape
+
+![Step 6](/images/origami/steps/carp-streamer/step-6.svg)
+
 
 ## Finishing Touch
 

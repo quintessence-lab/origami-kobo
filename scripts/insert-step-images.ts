@@ -6,6 +6,13 @@ const ANIMALS = [
   'fish', 'frog', 'penguin', 'rabbit', 'swan',
 ];
 
+const SEASONAL = [
+  'carp-streamer', 'christmas-tree', 'jack-o-lantern',
+  'kabuto', 'santa', 'snowflake', 'tanabata',
+];
+
+const ALL_SLUGS = [...ANIMALS, ...SEASONAL];
+
 const CONTENT_DIR = path.join(process.cwd(), 'content', 'posts');
 const STEPS_DIR = path.join(process.cwd(), 'public', 'images', 'origami', 'steps');
 
@@ -14,8 +21,14 @@ function insertStepImages(filePath: string, lang: 'ja' | 'en', slug: string): nu
   const content = fs.readFileSync(filePath, 'utf8');
   const lines = content.split('\n');
 
-  // 折り方セクションのヘッダーを検出
-  const sectionHeader = lang === 'ja' ? '## 折り方' : '## Instructions';
+  // 折り方セクションのヘッダーを検出（複数セクション対応）
+  const sectionStarters = lang === 'ja'
+    ? ['## 折り方', '## つなげ方', '## 組み立て']
+    : ['## Instructions', '## Assembly', '## Making the Garland', '## Star'];
+
+  function isSectionHeader(trimmed: string): boolean {
+    return sectionStarters.some(s => trimmed.startsWith(s));
+  }
 
   let inSection = false;
   let stepNum = 0;
@@ -25,15 +38,15 @@ function insertStepImages(filePath: string, lang: 'ja' | 'en', slug: string): nu
   for (let i = 0; i < lines.length; i++) {
     const line = lines[i];
 
-    // セクション開始を検出
-    if (line.trim() === sectionHeader) {
+    // セクション開始を検出（startsWith で部分一致）
+    if (isSectionHeader(line.trim())) {
       inSection = true;
       newLines.push(line);
       continue;
     }
 
-    // 別のセクション(##)に入ったらセクション終了
-    if (inSection && line.startsWith('## ')) {
+    // 別の非対象セクション(##)に入ったらセクション終了
+    if (inSection && line.startsWith('## ') && !isSectionHeader(line.trim())) {
       inSection = false;
     }
 
@@ -46,9 +59,11 @@ function insertStepImages(filePath: string, lang: 'ja' | 'en', slug: string): nu
       // SVGファイルが存在するか確認
       const svgPath = path.join(STEPS_DIR, slug, `step-${stepNum}.svg`);
       if (fs.existsSync(svgPath)) {
-        // 次の行が既に画像行でないか確認（重複挿入防止）
-        const nextLine = lines[i + 1]?.trim() ?? '';
-        if (!nextLine.startsWith('![')) {
+        // 次の行（空行をスキップ）が既に画像行でないか確認（重複挿入防止）
+        let lookAhead = i + 1;
+        while (lookAhead < lines.length && lines[lookAhead].trim() === '') lookAhead++;
+        const nextNonEmpty = lines[lookAhead]?.trim() ?? '';
+        if (!nextNonEmpty.startsWith('![')) {
           const altText = lang === 'ja' ? `ステップ${stepNum}` : `Step ${stepNum}`;
           newLines.push('');
           newLines.push(`![${altText}](/images/origami/steps/${slug}/step-${stepNum}.svg)`);
@@ -69,7 +84,7 @@ function insertStepImages(filePath: string, lang: 'ja' | 'en', slug: string): nu
 // ── メイン処理 ──
 let totalInserted = 0;
 
-for (const slug of ANIMALS) {
+for (const slug of ALL_SLUGS) {
   // 日本語版
   const jaPath = path.join(CONTENT_DIR, 'ja', `${slug}.md`);
   if (fs.existsSync(jaPath)) {

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+<rect width="200" height="200" rx="12" fill="#FFF8F0"/>
+<defs>
+  <marker id="ah" markerWidth="8" markerHeight="6" refX="8" refY="3" orient="auto">
+    <path d="M0,0 L8,3 L0,6" fill="#E07B54"/>
+  </marker>
+</defs>
+<polygon points="100,35 75,75 100,160 125,75" fill="#2E7D32" opacity="0.9"/>
+<line x1="75" y1="145" x2="125" y2="145" stroke="#CC8855" stroke-width="1.5" stroke-dasharray="5,3"/>
+<polygon points="75,145 100,160 125,145" fill="#1B5E20" opacity="0.5"/>
+<path d="M100,158 Q105,152 100,147" stroke="#E07B54" stroke-width="2" fill="none" marker-end="url(#ah)"/>
+<text x="100" y="185" font-family="sans-serif" font-size="11" fill="#3D2B1F" text-anchor="middle">底を平らに</text>
+</svg>

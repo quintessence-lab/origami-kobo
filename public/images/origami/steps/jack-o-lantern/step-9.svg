@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+<rect width="200" height="200" rx="12" fill="#FFF8F0"/>
+<defs>
+  <marker id="ah" markerWidth="8" markerHeight="6" refX="8" refY="3" orient="auto">
+    <path d="M0,0 L8,3 L0,6" fill="#E07B54"/>
+  </marker>
+</defs>
+<ellipse cx="100" cy="100" rx="50" ry="45" fill="#E07B54" opacity="0.9"/>
+<polygon points="100,55 95,45 105,42 108,52" fill="#2E7D32"/>
+<polygon points="82,82 88,75 94,82" fill="#3D2B1F"/>
+<polygon points="106,82 112,75 118,82" fill="#3D2B1F"/>
+<polygon points="98,95 95,100 105,100" fill="#3D2B1F"/>
+<path d="M75,110 Q85,125 95,110 Q105,125 115,110 Q125,125 130,115" stroke="#3D2B1F" stroke-width="2.5" fill="none"/>
+<text x="100" y="185" font-family="sans-serif" font-size="11" fill="#3D2B1F" text-anchor="middle">完成！</text>
+</svg>
