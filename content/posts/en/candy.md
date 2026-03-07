@@ -18,13 +18,37 @@ excerpt: "A simple wrapped candy that looks just like the real thing. Great for 
 ## Instructions
 
 1. Fold the paper in half to create a rectangle
+
+![Step 1](/images/origami/steps/candy/step-1.svg)
+
 2. Fold in half again to create a smaller rectangle, then unfold back to step 1
+
+![Step 2](/images/origami/steps/candy/step-2.svg)
+
 3. Fold the top and bottom edges to the center crease line
+
+![Step 3](/images/origami/steps/candy/step-3.svg)
+
 4. Fold the left side in about 3cm toward the center
+
+![Step 4](/images/origami/steps/candy/step-4.svg)
+
 5. Fold the right side in about 3cm toward the center
+
+![Step 5](/images/origami/steps/candy/step-5.svg)
+
 6. Pinch and twist the left end to form the candy wrapper twist
+
+![Step 6](/images/origami/steps/candy/step-6.svg)
+
 7. Pinch and twist the right end to form the other wrapper twist
+
+![Step 7](/images/origami/steps/candy/step-7.svg)
+
 8. Gently puff out the center to give the candy a rounded shape
+
+![Step 8](/images/origami/steps/candy/step-8.svg)
+
 
 ## Tips
 

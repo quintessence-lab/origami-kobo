@@ -19,13 +19,37 @@ excerpt: "An adorable mushroom with a round cap. Add white dots to make a classi
 ## Instructions
 
 1. Place the paper white side up and fold it in half to make a rectangle
+
+![Step 1](/images/origami/steps/mushroom/step-1.svg)
+
 2. Unfold, then fold both sides to the center crease
+
+![Step 2](/images/origami/steps/mushroom/step-2.svg)
+
 3. Unfold everything and fold the paper in half the other way (top to bottom)
+
+![Step 3](/images/origami/steps/mushroom/step-3.svg)
+
 4. Fold the top left and right corners down to the center line to form a triangle shape at the top
+
+![Step 4](/images/origami/steps/mushroom/step-4.svg)
+
 5. Fold the bottom left and right edges inward slightly to narrow the stem
+
+![Step 5](/images/origami/steps/mushroom/step-5.svg)
+
 6. Fold the bottom edge up about 1cm to create a flat base
+
+![Step 6](/images/origami/steps/mushroom/step-6.svg)
+
 7. Flip the model over — the colored top is the mushroom cap, and the white bottom is the stem
+
+![Step 7](/images/origami/steps/mushroom/step-7.svg)
+
 8. Fold the top left and right corners back slightly to round out the cap
+
+![Step 8](/images/origami/steps/mushroom/step-8.svg)
+
 
 ## Finishing Touch
 

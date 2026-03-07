@@ -19,10 +19,25 @@ excerpt: "夏の定番フルーツ、スイカ。赤と緑の2色で簡単に作
 ## 折り方
 
 1. 緑の面を上にして、三角形に折ります
+
+![ステップ1](/images/origami/steps/watermelon/step-1.svg)
+
 2. 三角の底辺を1cmほど折り上げます（皮の部分）
+
+![ステップ2](/images/origami/steps/watermelon/step-2.svg)
+
 3. 裏返すと赤い面が見えます
+
+![ステップ3](/images/origami/steps/watermelon/step-3.svg)
+
 4. 左右の角を内側に少し折り込んで、スイカの扇形にします
+
+![ステップ4](/images/origami/steps/watermelon/step-4.svg)
+
 5. 黒いマーカーで種を描いて完成です
+
+![ステップ5](/images/origami/steps/watermelon/step-5.svg)
+
 
 ## ポイント
 

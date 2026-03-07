@@ -19,12 +19,33 @@ excerpt: "A cute strawberry made with red and green duo paper. Simple and adorab
 ## Instructions
 
 1. Place the green side up and fold into a triangle
+
+![Step 1](/images/origami/steps/strawberry/step-1.svg)
+
 2. Fold the left and right corners up to the top point
+
+![Step 2](/images/origami/steps/strawberry/step-2.svg)
+
 3. Fold each flap back down slightly (these become the leaves)
+
+![Step 3](/images/origami/steps/strawberry/step-3.svg)
+
 4. Flip over (the red side is now showing)
+
+![Step 4](/images/origami/steps/strawberry/step-4.svg)
+
 5. Fold the left and right corners to the center
+
+![Step 5](/images/origami/steps/strawberry/step-5.svg)
+
 6. Fold the bottom corner up slightly
+
+![Step 6](/images/origami/steps/strawberry/step-6.svg)
+
 7. Tuck the side corners behind to round out the shape
+
+![Step 7](/images/origami/steps/strawberry/step-7.svg)
+
 
 ## Finishing Touch
 

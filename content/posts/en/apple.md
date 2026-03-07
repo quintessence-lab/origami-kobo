@@ -20,13 +20,37 @@ excerpt: "A cute red apple with a little leaf on top. Simple to fold and perfect
 ## Instructions
 
 1. Place the red paper color side down and fold it into a triangle
+
+![Step 1](/images/origami/steps/apple/step-1.svg)
+
 2. Fold the triangle in half again, then unfold back to the larger triangle
+
+![Step 2](/images/origami/steps/apple/step-2.svg)
+
 3. Fold the left corner up toward the top point, slightly past the center
+
+![Step 3](/images/origami/steps/apple/step-3.svg)
+
 4. Fold the right corner up the same way, overlapping slightly at the center
+
+![Step 4](/images/origami/steps/apple/step-4.svg)
+
 5. Fold the top point down about 2cm to create the stem area
+
+![Step 5](/images/origami/steps/apple/step-5.svg)
+
 6. Fold the left and right edges behind slightly to round the apple shape
+
+![Step 6](/images/origami/steps/apple/step-6.svg)
+
 7. Fold the bottom point up behind to flatten the base
+
+![Step 7](/images/origami/steps/apple/step-7.svg)
+
 8. Flip the model over — this is the front of your apple
+
+![Step 8](/images/origami/steps/apple/step-8.svg)
+
 
 ## Adding the Leaf
 

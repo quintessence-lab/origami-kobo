@@ -20,19 +20,52 @@ excerpt: "A cute ice cream cone with a scoop on top. Choose your favorite color 
 ## Instructions (Cone)
 
 1. Place the brown paper color side down and fold it into a triangle
+
+![Step 1](/images/origami/steps/ice-cream/step-1.svg)
+
 2. Fold the left corner up to the top point
+
+![Step 2](/images/origami/steps/ice-cream/step-2.svg)
+
 3. Fold the right corner up to the top point
+
+![Step 3](/images/origami/steps/ice-cream/step-3.svg)
+
 4. Fold the top front flap down about halfway
+
+![Step 4](/images/origami/steps/ice-cream/step-4.svg)
+
 5. Tuck the remaining top flap behind the model
+
+![Step 5](/images/origami/steps/ice-cream/step-5.svg)
+
 6. You now have a cone shape with an opening at the top
+
+![Step 6](/images/origami/steps/ice-cream/step-6.svg)
+
 
 ## Instructions (Scoop)
 
 1. Fold the paper into a triangle
+
+![Step 7](/images/origami/steps/ice-cream/step-7.svg)
+
 2. Fold the left and right corners slightly inward
+
+![Step 8](/images/origami/steps/ice-cream/step-8.svg)
+
 3. Fold the top point down about 1cm
+
+![Step 9](/images/origami/steps/ice-cream/step-9.svg)
+
 4. Fold the bottom point up to create a rounded scoop shape
+
+![Step 10](/images/origami/steps/ice-cream/step-10.svg)
+
 5. Flip over — this is the front of your ice cream scoop
+
+![Step 11](/images/origami/steps/ice-cream/step-11.svg)
+
 
 ## Assembly
 

@@ -19,12 +19,33 @@ excerpt: "赤と緑の2色で作る可愛いいちご。両面折り紙を使う
 ## 折り方
 
 1. 緑の面を上にして、三角形に折ります
+
+![ステップ1](/images/origami/steps/strawberry/step-1.svg)
+
 2. 三角形の左右の角を、上の頂点に向かって折り上げます
+
+![ステップ2](/images/origami/steps/strawberry/step-2.svg)
+
 3. 上に折った部分を、それぞれ少し下に折り返します（ヘタになります）
+
+![ステップ3](/images/origami/steps/strawberry/step-3.svg)
+
 4. 裏返します（赤い面が見えます）
+
+![ステップ4](/images/origami/steps/strawberry/step-4.svg)
+
 5. 左右の角を中央に向かって折ります
+
+![ステップ5](/images/origami/steps/strawberry/step-5.svg)
+
 6. 下の角を少し上に折ります
+
+![ステップ6](/images/origami/steps/strawberry/step-6.svg)
+
 7. 左右の角もわずかに裏へ折り込み、丸みを出します
+
+![ステップ7](/images/origami/steps/strawberry/step-7.svg)
+
 
 ## 仕上げ
 

@@ -16,7 +16,12 @@ const FLOWERS = [
   'rose', 'sunflower', 'tulip',
 ];
 
-const ALL_SLUGS = [...ANIMALS, ...SEASONAL, ...FLOWERS];
+const FOOD = [
+  'apple', 'cake', 'candy', 'ice-cream',
+  'mushroom', 'strawberry', 'watermelon',
+];
+
+const ALL_SLUGS = [...ANIMALS, ...SEASONAL, ...FLOWERS, ...FOOD];
 
 const CONTENT_DIR = path.join(process.cwd(), 'content', 'posts');
 const STEPS_DIR = path.join(process.cwd(), 'public', 'images', 'origami', 'steps');
@@ -29,7 +34,7 @@ function insertStepImages(filePath: string, lang: 'ja' | 'en', slug: string): nu
   // 折り方セクションのヘッダーを検出（複数セクション対応）
   const sectionStarters = lang === 'ja'
     ? ['## 折り方', '## つなげ方', '## 組み立て']
-    : ['## Instructions', '## Assembly', '## Making the Garland', '## Star'];
+    : ['## Instructions', '## Assembly', '## Making the Garland', '## Star', '## Adding'];
 
   function isSectionHeader(trimmed: string): boolean {
     return sectionStarters.some(s => trimmed.startsWith(s));

@@ -19,12 +19,33 @@ excerpt: "A refreshing watermelon slice perfect for summer. Simple folds and a f
 ## Instructions
 
 1. Place the paper with the green side up and fold it in half to make a rectangle
+
+![Step 1](/images/origami/steps/watermelon/step-1.svg)
+
 2. Fold the rectangle in half again to form a square
+
+![Step 2](/images/origami/steps/watermelon/step-2.svg)
+
 3. Unfold the last fold, returning to the rectangle shape
+
+![Step 3](/images/origami/steps/watermelon/step-3.svg)
+
 4. Fold the top left and right corners down to the center bottom edge
+
+![Step 4](/images/origami/steps/watermelon/step-4.svg)
+
 5. Fold the bottom edge up about 1cm to create the rind
+
+![Step 5](/images/origami/steps/watermelon/step-5.svg)
+
 6. Flip the model over to see the red side showing through as the fruit flesh
+
+![Step 6](/images/origami/steps/watermelon/step-6.svg)
+
 7. Fold the left and right points slightly inward to round the slice shape
+
+![Step 7](/images/origami/steps/watermelon/step-7.svg)
+
 
 ## Finishing Touch
 
