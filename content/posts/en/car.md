@@ -19,15 +19,45 @@ excerpt: "A simple origami car that's perfect for beginners. Fold one and start 
 ## Instructions
 
 1. Place the paper colored side down and fold it in half horizontally, then unfold
+
+![Step 1](/images/origami/steps/car/step-1.svg)
+
 2. Fold the top and bottom edges to meet the center crease
+
+![Step 2](/images/origami/steps/car/step-2.svg)
+
 3. Fold the entire piece in half by bringing the bottom edge up to the top
+
+![Step 3](/images/origami/steps/car/step-3.svg)
+
 4. Fold the bottom-left corner up at an angle to form the front of the car
+
+![Step 4](/images/origami/steps/car/step-4.svg)
+
 5. Fold the bottom-right corner up at a slightly steeper angle to form the back
+
+![Step 5](/images/origami/steps/car/step-5.svg)
+
 6. Tuck both folded corners inside the model using reverse folds
+
+![Step 6](/images/origami/steps/car/step-6.svg)
+
 7. Fold the top-left corner down and tuck it inside to shape the hood
+
+![Step 7](/images/origami/steps/car/step-7.svg)
+
 8. Fold the top-right corner down and tuck it inside to shape the trunk
+
+![Step 8](/images/origami/steps/car/step-8.svg)
+
 9. Turn the model over so the clean side faces up
+
+![Step 9](/images/origami/steps/car/step-9.svg)
+
 10. Draw or fold small circles near the bottom for wheels
+
+![Step 10](/images/origami/steps/car/step-10.svg)
+
 
 ## Tips
 

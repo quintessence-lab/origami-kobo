@@ -19,15 +19,45 @@ excerpt: "Fold your own origami train! A fun project for kids who love railways 
 ## Instructions
 
 1. Place the paper colored side down and fold it in half vertically, then unfold
+
+![Step 1](/images/origami/steps/train/step-1.svg)
+
 2. Fold the left and right edges to meet the center crease
+
+![Step 2](/images/origami/steps/train/step-2.svg)
+
 3. Fold the entire piece in half horizontally by bringing the top edge down to the bottom
+
+![Step 3](/images/origami/steps/train/step-3.svg)
+
 4. Fold the top layer's right edge outward to form the front of the locomotive
+
+![Step 4](/images/origami/steps/train/step-4.svg)
+
 5. Fold the top-left corner down at a diagonal to shape the cabin roof
+
+![Step 5](/images/origami/steps/train/step-5.svg)
+
 6. Fold the bottom-left corner up slightly and tuck it inside for the base
+
+![Step 6](/images/origami/steps/train/step-6.svg)
+
 7. Fold a small triangle at the top-right to create the smokestack
+
+![Step 7](/images/origami/steps/train/step-7.svg)
+
 8. Turn the model over
+
+![Step 8](/images/origami/steps/train/step-8.svg)
+
 9. Fold the bottom edge up about 1cm to create a flat base so the train can stand
+
+![Step 9](/images/origami/steps/train/step-9.svg)
+
 10. Draw windows, wheels, and tracks along the side with a marker
+
+![Step 10](/images/origami/steps/train/step-10.svg)
+
 
 ## Tips
 

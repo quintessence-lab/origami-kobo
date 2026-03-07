@@ -19,14 +19,41 @@ excerpt: "A sleek origami rocket ready for liftoff. Add flames at the bottom and
 ## Instructions
 
 1. Place the paper color side down and fold it in half vertically, then unfold
+
+![Step 1](/images/origami/steps/rocket/step-1.svg)
+
 2. Fold the top left and right corners down to meet at the center crease
+
+![Step 2](/images/origami/steps/rocket/step-2.svg)
+
 3. Fold the left and right edges to the center crease (creating a narrow kite shape)
+
+![Step 3](/images/origami/steps/rocket/step-3.svg)
+
 4. Fold the model in half along the center crease (the color should be on the outside)
+
+![Step 4](/images/origami/steps/rocket/step-4.svg)
+
 5. Rotate the model so the pointed end faces upward
+
+![Step 5](/images/origami/steps/rocket/step-5.svg)
+
 6. Fold one side flap down and outward at an angle to create a fin
+
+![Step 6](/images/origami/steps/rocket/step-6.svg)
+
 7. Flip and fold the other flap to match, creating the second fin
+
+![Step 7](/images/origami/steps/rocket/step-7.svg)
+
 8. Open the body slightly so the rocket can stand upright between its fins
+
+![Step 8](/images/origami/steps/rocket/step-8.svg)
+
 9. Adjust the nose cone point and fins until the rocket stands balanced
+
+![Step 9](/images/origami/steps/rocket/step-9.svg)
+
 
 ## Tips
 

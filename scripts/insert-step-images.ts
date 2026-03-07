@@ -21,7 +21,12 @@ const FOOD = [
   'mushroom', 'strawberry', 'watermelon',
 ];
 
-const ALL_SLUGS = [...ANIMALS, ...SEASONAL, ...FLOWERS, ...FOOD];
+const VEHICLES = [
+  'airplane', 'boat', 'car', 'helicopter',
+  'hot-air-balloon', 'rocket', 'train',
+];
+
+const ALL_SLUGS = [...ANIMALS, ...SEASONAL, ...FLOWERS, ...FOOD, ...VEHICLES];
 
 const CONTENT_DIR = path.join(process.cwd(), 'content', 'posts');
 const STEPS_DIR = path.join(process.cwd(), 'public', 'images', 'origami', 'steps');

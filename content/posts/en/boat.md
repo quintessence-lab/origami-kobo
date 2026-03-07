@@ -18,17 +18,53 @@ excerpt: "A classic origami boat that actually floats on water. One of the simpl
 ## Instructions
 
 1. Fold the paper in half to make a rectangle (fold the top edge down to the bottom)
+
+![Step 1](/images/origami/steps/boat/step-1.svg)
+
 2. Fold in half again from left to right, crease, then unfold back to the rectangle
+
+![Step 2](/images/origami/steps/boat/step-2.svg)
+
 3. Fold the top left and right corners down to meet at the center crease
+
+![Step 3](/images/origami/steps/boat/step-3.svg)
+
 4. Fold the bottom front flap up along the base of the triangle
+
+![Step 4](/images/origami/steps/boat/step-4.svg)
+
 5. Flip over and fold the other bottom flap up the same way
+
+![Step 5](/images/origami/steps/boat/step-5.svg)
+
 6. Tuck the small corner flaps around to the other side on both ends
+
+![Step 6](/images/origami/steps/boat/step-6.svg)
+
 7. Open the bottom and flatten into a square (diamond) shape
+
+![Step 7](/images/origami/steps/boat/step-7.svg)
+
 8. Fold the front bottom corner up to the top point
+
+![Step 8](/images/origami/steps/boat/step-8.svg)
+
 9. Flip and fold the other bottom corner up to match
+
+![Step 9](/images/origami/steps/boat/step-9.svg)
+
 10. Open the bottom again and flatten into a smaller square
+
+![Step 10](/images/origami/steps/boat/step-10.svg)
+
 11. Gently pull the top two points outward to open the boat
+
+![Step 11](/images/origami/steps/boat/step-11.svg)
+
 12. Flatten and shape the bottom so the boat can stand on its own
+
+![Step 12](/images/origami/steps/boat/step-12.svg)
+
 
 ## Tips
 
