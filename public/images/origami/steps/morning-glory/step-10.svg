@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+<rect width="200" height="200" rx="12" fill="#FFF8F0"/>
+<defs>
+  <marker id="ah" markerWidth="8" markerHeight="6" refX="8" refY="3" orient="auto">
+    <path d="M0,0 L8,3 L0,6" fill="#E07B54"/>
+  </marker>
+</defs>
+<path d="M100,150 L70,90 Q55,60 45,80" fill="none" stroke="#7B68EE" stroke-width="3"/>
+<path d="M100,150 L130,90 Q145,60 155,80" fill="none" stroke="#7B68EE" stroke-width="3"/>
+<path d="M100,150 L80,85 Q65,55 50,75" fill="none" stroke="#8B7BEE" stroke-width="2"/>
+<path d="M100,150 L120,85 Q135,55 150,75" fill="none" stroke="#8B7BEE" stroke-width="2"/>
+<ellipse cx="100" cy="80" rx="8" ry="4" fill="#FEFEFE" opacity="0.8"/>
+<text x="100" y="185" font-family="sans-serif" font-size="11" fill="#3D2B1F" text-anchor="middle">完成！</text>
+</svg>

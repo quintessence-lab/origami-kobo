@@ -18,18 +18,48 @@ excerpt: "春にぴったりの可愛いチューリップ。花と茎の2パー
 ## 折り方（花の部分）
 
 1. 折り紙を三角形に折ります
+
+![ステップ1](/images/origami/steps/tulip/step-1.svg)
+
 2. 左右の角を頂点に向かって折り上げます
+
+![ステップ2](/images/origami/steps/tulip/step-2.svg)
+
 3. 裏返して同じように折ります
+
+![ステップ3](/images/origami/steps/tulip/step-3.svg)
+
 4. 左右の辺を少しだけ内側に折り、花の丸みを出します
+
+![ステップ4](/images/origami/steps/tulip/step-4.svg)
+
 5. 下の穴から息を吹き込んで、ふっくらさせます
+
+![ステップ5](/images/origami/steps/tulip/step-5.svg)
+
 
 ## 折り方（茎の部分）
 
 1. 緑色の折り紙を対角線に折って広げます
+
+![ステップ6](/images/origami/steps/tulip/step-6.svg)
+
 2. 中央の線に合わせて左右を折ります（凧の形）
+
+![ステップ7](/images/origami/steps/tulip/step-7.svg)
+
 3. もう一度中央に向けて左右を折ります
+
+![ステップ8](/images/origami/steps/tulip/step-8.svg)
+
 4. 半分に折って細い茎の形にします
+
+![ステップ9](/images/origami/steps/tulip/step-9.svg)
+
 5. 下の部分を斜めに折って葉にします
+
+![ステップ10](/images/origami/steps/tulip/step-10.svg)
+
 
 ## 組み立て
 

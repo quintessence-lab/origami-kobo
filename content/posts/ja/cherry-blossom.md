@@ -19,17 +19,44 @@ excerpt: "日本を代表する花、桜。5枚の花びらを組み合わせて
 ## 折り方（花びら1枚分）
 
 1. 折り紙を三角形に折ります
+
+![ステップ1](/images/origami/steps/cherry-blossom/step-1.svg)
+
 2. 左右の角を頂点に向かって折り上げます
+
+![ステップ2](/images/origami/steps/cherry-blossom/step-2.svg)
+
 3. 折り上げた部分をそれぞれ外側に半分折り返します
+
+![ステップ3](/images/origami/steps/cherry-blossom/step-3.svg)
+
 4. 外に折った部分を開いてつぶします
+
+![ステップ4](/images/origami/steps/cherry-blossom/step-4.svg)
+
 5. はみ出た三角部分を内側に折り込みます
+
+![ステップ5](/images/origami/steps/cherry-blossom/step-5.svg)
+
 6. 左右を中央で合わせるように折ります
+
+![ステップ6](/images/origami/steps/cherry-blossom/step-6.svg)
+
 
 ## 組み立て
 
 1. 5枚の花びらをのりで貼り合わせて円形に配置します
+
+![ステップ7](/images/origami/steps/cherry-blossom/step-7.svg)
+
 2. 花びらの間隔が均等になるように調整します
+
+![ステップ8](/images/origami/steps/cherry-blossom/step-8.svg)
+
 3. 中央に小さな丸い紙を貼ると仕上がりがきれいです
+
+![ステップ9](/images/origami/steps/cherry-blossom/step-9.svg)
+
 
 ## ポイント
 

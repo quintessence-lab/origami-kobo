@@ -19,16 +19,49 @@ excerpt: "Delicate origami cherry blossoms that capture the beauty of Japan's mo
 ## Instructions
 
 1. Place the paper colored side down and fold it in half to form a rectangle
+
+![Step 1](/images/origami/steps/cherry-blossom/step-1.svg)
+
 2. Fold the rectangle in half again to mark the center, then unfold
+
+![Step 2](/images/origami/steps/cherry-blossom/step-2.svg)
+
 3. Take the bottom-right corner and fold it up to meet the center mark on the top edge
+
+![Step 3](/images/origami/steps/cherry-blossom/step-3.svg)
+
 4. Take the bottom-left corner and fold it over to align with the right edge of the previous fold
+
+![Step 4](/images/origami/steps/cherry-blossom/step-4.svg)
+
 5. Fold the top-left section behind along the edge of the front flap
+
+![Step 5](/images/origami/steps/cherry-blossom/step-5.svg)
+
 6. You now have a wedge shape — this represents one-fifth of the circle
+
+![Step 6](/images/origami/steps/cherry-blossom/step-6.svg)
+
 7. Draw a petal shape on the top edge: a gentle curve that dips in at the center of each petal
+
+![Step 7](/images/origami/steps/cherry-blossom/step-7.svg)
+
 8. Cut along the line with scissors
+
+![Step 8](/images/origami/steps/cherry-blossom/step-8.svg)
+
 9. Carefully unfold the paper to reveal a five-petaled cherry blossom
+
+![Step 9](/images/origami/steps/cherry-blossom/step-9.svg)
+
 10. Gently curl each petal inward slightly for a three-dimensional effect
+
+![Step 10](/images/origami/steps/cherry-blossom/step-10.svg)
+
 11. Use a marker to add small lines from the center for the stamens (optional)
+
+![Step 11](/images/origami/steps/cherry-blossom/step-11.svg)
+
 
 ## Tips
 

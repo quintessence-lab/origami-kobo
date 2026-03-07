@@ -19,12 +19,33 @@ excerpt: "花びらが優雅に開くゆりの花。4枚の花びらをカール
 ## 折り方
 
 1. 折り紙を三角形に折り、さらに三角形に折ります
+
+![ステップ1](/images/origami/steps/lily/step-1.svg)
+
 2. 片面を開いて四角形につぶします（正方基本形）
+
+![ステップ2](/images/origami/steps/lily/step-2.svg)
+
 3. 裏側も同様に開きます
+
+![ステップ3](/images/origami/steps/lily/step-3.svg)
+
 4. 各面の左右の辺を中央に合わせて折り、折り目をつけて広げます
+
+![ステップ4](/images/origami/steps/lily/step-4.svg)
+
 5. 下の角を引き上げて花弁折りにします（4面すべて）
+
+![ステップ5](/images/origami/steps/lily/step-5.svg)
+
 6. 上の左右の辺を中央に合わせて折ります（4面すべて）
+
+![ステップ6](/images/origami/steps/lily/step-6.svg)
+
 7. 花びらを1枚ずつ外側にめくり、ペンに巻きつけてカールさせます
+
+![ステップ7](/images/origami/steps/lily/step-7.svg)
+
 
 ## ポイント
 

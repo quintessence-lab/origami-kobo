@@ -18,18 +18,48 @@ excerpt: "A lovely tulip perfect for spring. Made with two parts — the flower 
 ## Instructions (Flower)
 
 1. Fold the paper into a triangle
+
+![Step 1](/images/origami/steps/tulip/step-1.svg)
+
 2. Fold the left and right corners up to the top point
+
+![Step 2](/images/origami/steps/tulip/step-2.svg)
+
 3. Flip over and repeat
+
+![Step 3](/images/origami/steps/tulip/step-3.svg)
+
 4. Fold the left and right edges slightly inward to round out the shape
+
+![Step 4](/images/origami/steps/tulip/step-4.svg)
+
 5. Blow air into the hole at the bottom to puff it up
+
+![Step 5](/images/origami/steps/tulip/step-5.svg)
+
 
 ## Instructions (Stem)
 
 1. Fold the green paper diagonally, then unfold
+
+![Step 6](/images/origami/steps/tulip/step-6.svg)
+
 2. Fold the left and right edges to the center line (kite shape)
+
+![Step 7](/images/origami/steps/tulip/step-7.svg)
+
 3. Fold to the center again
+
+![Step 8](/images/origami/steps/tulip/step-8.svg)
+
 4. Fold in half to create a thin stem shape
+
+![Step 9](/images/origami/steps/tulip/step-9.svg)
+
 5. Fold the bottom part at an angle to create a leaf
+
+![Step 10](/images/origami/steps/tulip/step-10.svg)
+
 
 ## Assembly
 

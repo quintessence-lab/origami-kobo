@@ -19,15 +19,45 @@ excerpt: "A charming morning glory perfect for summer crafts. Simple folds creat
 ## Instructions
 
 1. Place the paper color side down and fold diagonally to make a triangle
+
+![Step 1](/images/origami/steps/morning-glory/step-1.svg)
+
 2. Fold the triangle in half again to make a smaller triangle
+
+![Step 2](/images/origami/steps/morning-glory/step-2.svg)
+
 3. Lift the top flap and open it, squashing it down into a square (squash fold)
+
+![Step 3](/images/origami/steps/morning-glory/step-3.svg)
+
 4. Flip over and repeat the squash fold on the other side
+
+![Step 4](/images/origami/steps/morning-glory/step-4.svg)
+
 5. Fold the left and right edges of the top layer to the center crease
+
+![Step 5](/images/origami/steps/morning-glory/step-5.svg)
+
 6. Fold the top triangle down and crease firmly
+
+![Step 6](/images/origami/steps/morning-glory/step-6.svg)
+
 7. Unfold steps 5-6, then lift the bottom point and petal fold upward
+
+![Step 7](/images/origami/steps/morning-glory/step-7.svg)
+
 8. Flip and repeat steps 5-7 on the other side
+
+![Step 8](/images/origami/steps/morning-glory/step-8.svg)
+
 9. Fold the top flaps down on each side to open up the flower shape
+
+![Step 9](/images/origami/steps/morning-glory/step-9.svg)
+
 10. Gently open the petals outward and curl them slightly with your finger
+
+![Step 10](/images/origami/steps/morning-glory/step-10.svg)
+
 
 ## Tips
 

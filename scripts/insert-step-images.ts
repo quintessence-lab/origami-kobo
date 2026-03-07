@@ -11,7 +11,12 @@ const SEASONAL = [
   'kabuto', 'santa', 'snowflake', 'tanabata',
 ];
 
-const ALL_SLUGS = [...ANIMALS, ...SEASONAL];
+const FLOWERS = [
+  'cherry-blossom', 'lily', 'lotus', 'morning-glory',
+  'rose', 'sunflower', 'tulip',
+];
+
+const ALL_SLUGS = [...ANIMALS, ...SEASONAL, ...FLOWERS];
 
 const CONTENT_DIR = path.join(process.cwd(), 'content', 'posts');
 const STEPS_DIR = path.join(process.cwd(), 'public', 'images', 'origami', 'steps');

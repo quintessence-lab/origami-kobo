@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+<rect width="200" height="200" rx="12" fill="#FFF8F0"/>
+<defs>
+  <marker id="ah" markerWidth="8" markerHeight="6" refX="8" refY="3" orient="auto">
+    <path d="M0,0 L8,3 L0,6" fill="#E07B54"/>
+  </marker>
+</defs>
+<path d="M100,50 L108,78 L138,78 L113,95 L122,122 L100,107 L78,122 L87,95 L62,78 L92,78 Z" fill="#FFB7C5" opacity="0.9"/>
+<path d="M100,50 L108,78 L138,78 L113,95 L122,122 L100,107 L78,122 L87,95 L62,78 L92,78 Z" fill="none" stroke="#FF69B4" stroke-width="1.5"/>
+<text x="100" y="185" font-family="sans-serif" font-size="11" fill="#3D2B1F" text-anchor="middle">花を広げる</text>
+</svg>

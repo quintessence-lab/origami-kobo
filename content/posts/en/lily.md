@@ -19,17 +19,53 @@ excerpt: "A beautiful three-dimensional origami lily with four curling petals. A
 ## Instructions
 
 1. Place the paper white side up and fold diagonally both ways, then unfold
+
+![Step 1](/images/origami/steps/lily/step-1.svg)
+
 2. Fold in half horizontally and vertically to create creases
+
+![Step 2](/images/origami/steps/lily/step-2.svg)
+
 3. Collapse along the creases into a square base (preliminary base)
+
+![Step 3](/images/origami/steps/lily/step-3.svg)
+
 4. Fold the top layer's left and right edges to meet the center crease
+
+![Step 4](/images/origami/steps/lily/step-4.svg)
+
 5. Fold the top triangle down, crease, and unfold
+
+![Step 5](/images/origami/steps/lily/step-5.svg)
+
 6. Lift the bottom point and petal fold upward, folding the sides inward
+
+![Step 6](/images/origami/steps/lily/step-6.svg)
+
 7. Repeat steps 4-6 on all four sides of the model
+
+![Step 7](/images/origami/steps/lily/step-7.svg)
+
 8. On each side, fold the upper flaps down so the model narrows
+
+![Step 8](/images/origami/steps/lily/step-8.svg)
+
 9. Fold the left and right edges of each face to the center line
+
+![Step 9](/images/origami/steps/lily/step-9.svg)
+
 10. Repeat on all four sides
+
+![Step 10](/images/origami/steps/lily/step-10.svg)
+
 11. Gently pull each of the four petals outward and downward
+
+![Step 11](/images/origami/steps/lily/step-11.svg)
+
 12. Curl each petal tip around a pen or pencil for a natural shape
+
+![Step 12](/images/origami/steps/lily/step-12.svg)
+
 
 ## Tips
 

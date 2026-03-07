@@ -20,14 +20,41 @@ excerpt: "A bright and cheerful origami sunflower made from two sheets of paper.
 ## Instructions
 
 1. Start with the yellow paper, white side up, and fold in half both ways to create creases
+
+![Step 1](/images/origami/steps/sunflower/step-1.svg)
+
 2. Fold all four corners to the center (blintz base)
+
+![Step 2](/images/origami/steps/sunflower/step-2.svg)
+
 3. Flip the model over and fold all four corners to the center again
+
+![Step 3](/images/origami/steps/sunflower/step-3.svg)
+
 4. Flip over once more and fold all four corners to the center a third time
+
+![Step 4](/images/origami/steps/sunflower/step-4.svg)
+
 5. Turn the model over and gently pull each corner flap outward to reveal the petals underneath
+
+![Step 5](/images/origami/steps/sunflower/step-5.svg)
+
 6. Continue pulling back the next layer of flaps to create a second row of petals
+
+![Step 6](/images/origami/steps/sunflower/step-6.svg)
+
 7. Flatten and shape all the petals evenly
+
+![Step 7](/images/origami/steps/sunflower/step-7.svg)
+
 8. For the center, take the brown paper and fold it into a small flat square by folding each corner to the center
+
+![Step 8](/images/origami/steps/sunflower/step-8.svg)
+
 9. Place the brown square in the center of the flower and secure with glue if desired
+
+![Step 9](/images/origami/steps/sunflower/step-9.svg)
+
 
 ## Tips
 

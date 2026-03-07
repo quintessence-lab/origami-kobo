@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+<rect width="200" height="200" rx="12" fill="#FFF8F0"/>
+<defs>
+  <marker id="ah" markerWidth="8" markerHeight="6" refX="8" refY="3" orient="auto">
+    <path d="M0,0 L8,3 L0,6" fill="#E07B54"/>
+  </marker>
+</defs>
+<path d="M100,38 Q62,32 42,55 Q30,78 45,105 Q62,125 100,130 Q138,125 155,105 Q170,78 158,55 Q138,32 100,38" fill="#FFD700" opacity="0.9"/>
+<path d="M100,48 Q75,44 60,60 Q50,78 60,95 Q75,110 100,114 Q125,110 140,95 Q150,78 140,60 Q125,44 100,48" fill="#FFE44D" opacity="0.7"/>
+<circle cx="100" cy="78" r="18" fill="#8B4513"/>
+<circle cx="100" cy="78" r="14" fill="#A0522D"/>
+<text x="100" y="185" font-family="sans-serif" font-size="11" fill="#3D2B1F" text-anchor="middle">完成！</text>
+</svg>
