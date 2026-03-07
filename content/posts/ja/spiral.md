@@ -19,13 +19,37 @@ excerpt: "伸び縮みするバネ型折り紙。2枚の紙を交互に折るだ
 ## 折り方
 
 1. 2枚の折り紙をそれぞれ細長く4分の1の幅に切ります
+
+![ステップ1](/images/origami/steps/spiral/step-1.svg)
+
 2. 2本の帯をL字型に直角に重ね、端をのりで貼ります
+
+![ステップ2](/images/origami/steps/spiral/step-2.svg)
+
 3. 下の帯を上に折ります
+
+![ステップ3](/images/origami/steps/spiral/step-3.svg)
+
 4. 右の帯を左に折ります
+
+![ステップ4](/images/origami/steps/spiral/step-4.svg)
+
 5. 上の帯を下に折ります
+
+![ステップ5](/images/origami/steps/spiral/step-5.svg)
+
 6. 左の帯を右に折ります
+
+![ステップ6](/images/origami/steps/spiral/step-6.svg)
+
 7. 交互に折り続けて最後まで行きます
+
+![ステップ7](/images/origami/steps/spiral/step-7.svg)
+
 8. 端をのりで留めて完成です
+
+![ステップ8](/images/origami/steps/spiral/step-8.svg)
+
 
 ## 遊び方
 

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+<rect width="200" height="200" rx="12" fill="#FFF8F0"/>
+<defs>
+  <marker id="ah" markerWidth="8" markerHeight="6" refX="8" refY="3" orient="auto">
+    <path d="M0,0 L8,3 L0,6" fill="#E07B54"/>
+  </marker>
+</defs>
+<polygon points="100,30 112,65 150,65 120,88 130,125 100,105 70,125 80,88 50,65 88,65" fill="#FFD700" opacity="0.9"/>
+<polygon points="100,55 108,72 128,72 112,82 118,100 100,90 82,100 88,82 72,72 92,72" fill="#DAA520" opacity="0.5"/>
+<text x="100" y="185" font-family="sans-serif" font-size="11" fill="#3D2B1F" text-anchor="middle">完成！</text>
+</svg>

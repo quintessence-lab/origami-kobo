@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+<rect width="200" height="200" rx="12" fill="#FFF8F0"/>
+<defs>
+  <marker id="ah" markerWidth="8" markerHeight="6" refX="8" refY="3" orient="auto">
+    <path d="M0,0 L8,3 L0,6" fill="#E07B54"/>
+  </marker>
+</defs>
+<polygon points="75,30 125,30 100,170" fill="#9370DB" opacity="0.9"/>
+<line x1="100" y1="30" x2="100" y2="170" stroke="#CC8855" stroke-width="1.5" stroke-dasharray="5,3"/>
+<path d="M80,80 Q88,75 95,75" stroke="#E07B54" stroke-width="2" fill="none" marker-end="url(#ah)"/>
+<path d="M120,80 Q112,75 105,75" stroke="#E07B54" stroke-width="2" fill="none" marker-end="url(#ah)"/>
+<text x="100" y="185" font-family="sans-serif" font-size="11" fill="#3D2B1F" text-anchor="middle">左右を中央に折る</text>
+</svg>

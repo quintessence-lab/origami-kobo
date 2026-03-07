@@ -18,16 +18,40 @@ excerpt: "3枚の折り紙を組み合わせて作る六角形コースター。
 ## 折り方（ユニット1枚分）
 
 1. 折り紙を横に半分に折ります
+
+![ステップ1](/images/origami/steps/hexagon/step-1.svg)
+
 2. 左右の上角を中央に向かって三角に折ります
+
+![ステップ2](/images/origami/steps/hexagon/step-2.svg)
+
 3. 下の辺を折り上げます
+
+![ステップ3](/images/origami/steps/hexagon/step-3.svg)
+
 4. 裏返して、左右の角を斜めに折って平行四辺形にします
+
+![ステップ4](/images/origami/steps/hexagon/step-4.svg)
+
 5. これを3枚分作ります
+
+![ステップ5](/images/origami/steps/hexagon/step-5.svg)
+
 
 ## 組み立て
 
 1. 1つのユニットの三角部分を、次のユニットのポケットに差し込みます
+
+![ステップ6](/images/origami/steps/hexagon/step-6.svg)
+
 2. 3つを順番に組み合わせて六角形にします
+
+![ステップ7](/images/origami/steps/hexagon/step-7.svg)
+
 3. 最後のユニットを最初のユニットに差し込んで完成です
+
+![ステップ8](/images/origami/steps/hexagon/step-8.svg)
+
 
 ## ポイント
 

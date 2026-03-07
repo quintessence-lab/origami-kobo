@@ -19,15 +19,45 @@ excerpt: "A practical origami box (masu box) that you can actually use. Great fo
 ## Instructions
 
 1. Place the paper white side up and fold it in half both ways to create creases, then unfold
+
+![Step 1](/images/origami/steps/box/step-1.svg)
+
 2. Fold all four corners to the center point
+
+![Step 2](/images/origami/steps/box/step-2.svg)
+
 3. Fold the top and bottom edges to the center, crease firmly, then unfold
+
+![Step 3](/images/origami/steps/box/step-3.svg)
+
 4. Fold the left and right edges to the center, crease firmly, then unfold
+
+![Step 4](/images/origami/steps/box/step-4.svg)
+
 5. Unfold the top and bottom triangles (left and right remain folded)
+
+![Step 5](/images/origami/steps/box/step-5.svg)
+
 6. Fold the left and right sides upward along the existing creases to form two walls
+
+![Step 6](/images/origami/steps/box/step-6.svg)
+
 7. Re-fold the top triangle toward the center — it will wrap over the wall and into the box
+
+![Step 7](/images/origami/steps/box/step-7.svg)
+
 8. Press the triangle flat against the bottom of the box, shaping the corners
+
+![Step 8](/images/origami/steps/box/step-8.svg)
+
 9. Repeat step 7-8 with the bottom triangle to form the last wall
+
+![Step 9](/images/origami/steps/box/step-9.svg)
+
 10. Adjust all four corners for a clean, sharp box shape
+
+![Step 10](/images/origami/steps/box/step-10.svg)
+
 
 ## Tips
 

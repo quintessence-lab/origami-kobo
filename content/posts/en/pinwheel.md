@@ -20,13 +20,37 @@ excerpt: "A classic spinning pinwheel made from a single sheet of paper. Fun to 
 ## Instructions
 
 1. Place the paper colored side down and fold it in half to form a rectangle, then unfold
+
+![Step 1](/images/origami/steps/pinwheel/step-1.svg)
+
 2. Fold in half the other way to create a cross-shaped crease, then unfold
+
+![Step 2](/images/origami/steps/pinwheel/step-2.svg)
+
 3. Cut along each crease line from the edge toward the center, stopping about 2cm from the middle
+
+![Step 3](/images/origami/steps/pinwheel/step-3.svg)
+
 4. You should now have four triangular flaps
+
+![Step 4](/images/origami/steps/pinwheel/step-4.svg)
+
 5. Take the right corner of each flap and fold it toward the center — do not fold the left corners
+
+![Step 5](/images/origami/steps/pinwheel/step-5.svg)
+
 6. Overlap all four folded corners at the center point
+
+![Step 6](/images/origami/steps/pinwheel/step-6.svg)
+
 7. Push a pin through all the layered corners and the center of the paper
+
+![Step 7](/images/origami/steps/pinwheel/step-7.svg)
+
 8. Attach the pin to the top of a straw or stick, leaving a small gap so it can spin freely
+
+![Step 8](/images/origami/steps/pinwheel/step-8.svg)
+
 
 ## Tips
 

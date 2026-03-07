@@ -18,19 +18,52 @@ excerpt: "6枚の折り紙を組み合わせて作る美しい立方体。ユニ
 ## 折り方（ユニット1枚分）
 
 1. 折り紙を縦横それぞれ半分に折り、折り目をつけて広げます
+
+![ステップ1](/images/origami/steps/cube/step-1.svg)
+
 2. 上下の辺を中央の線に合わせて折ります
+
+![ステップ2](/images/origami/steps/cube/step-2.svg)
+
 3. 左下の角と右上の角を三角に折ります
+
+![ステップ3](/images/origami/steps/cube/step-3.svg)
+
 4. 三角に折った部分を内側に折り込みます
+
+![ステップ4](/images/origami/steps/cube/step-4.svg)
+
 5. 左上の角と右下の角をそれぞれ中央に向けて折ります
+
+![ステップ5](/images/origami/steps/cube/step-5.svg)
+
 6. これを6枚分繰り返します
+
+![ステップ6](/images/origami/steps/cube/step-6.svg)
+
 
 ## 組み立て
 
 1. 1つのユニットの三角部分を、別のユニットのポケットに差し込みます
+
+![ステップ7](/images/origami/steps/cube/step-7.svg)
+
 2. 3つのユニットで角を1つ作ります
+
+![ステップ8](/images/origami/steps/cube/step-8.svg)
+
 3. 残りのユニットを順番に差し込んでいきます
+
+![ステップ9](/images/origami/steps/cube/step-9.svg)
+
 4. 最後のユニットを差し込むのが一番難しいですが、慎重に入れましょう
+
+![ステップ10](/images/origami/steps/cube/step-10.svg)
+
 5. 全体の形を整えて完成です
+
+![ステップ11](/images/origami/steps/cube/step-11.svg)
+
 
 ## ポイント
 

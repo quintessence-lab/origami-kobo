@@ -18,23 +18,59 @@ excerpt: "A ninja star made from two sheets of paper. Use two colors for an awes
 ## Instructions (Part A)
 
 1. Fold the paper in half vertically
+
+![Step 1](/images/origami/steps/shuriken/step-1.svg)
+
 2. Fold in half horizontally, crease, and unfold
+
+![Step 2](/images/origami/steps/shuriken/step-2.svg)
+
 3. Fold the top half to the right and the bottom half to the left (Z-shape)
+
+![Step 3](/images/origami/steps/shuriken/step-3.svg)
+
 4. Fold the top section into a triangle pointing down, and the bottom into a triangle pointing up
+
+![Step 4](/images/origami/steps/shuriken/step-4.svg)
+
 
 ## Instructions (Part B)
 
 1. Follow the same steps as Part A, but reverse the direction in step 3
+
+![Step 5](/images/origami/steps/shuriken/step-5.svg)
+
 2. Fold the top half to the left, bottom half to the right
+
+![Step 6](/images/origami/steps/shuriken/step-6.svg)
+
 3. Reverse the triangle fold directions as well
+
+![Step 7](/images/origami/steps/shuriken/step-7.svg)
+
 
 ## Assembly
 
 1. Flip Part B over
+
+![Step 8](/images/origami/steps/shuriken/step-8.svg)
+
 2. Place Part A on top of Part B in a cross shape
+
+![Step 9](/images/origami/steps/shuriken/step-9.svg)
+
 3. Tuck Part B's triangles into Part A's pockets
+
+![Step 10](/images/origami/steps/shuriken/step-10.svg)
+
 4. Flip over and tuck the remaining triangles in
+
+![Step 11](/images/origami/steps/shuriken/step-11.svg)
+
 5. Press firmly and you're done!
+
+![Step 12](/images/origami/steps/shuriken/step-12.svg)
+
 
 ## Tips
 

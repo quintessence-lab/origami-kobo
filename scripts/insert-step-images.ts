@@ -26,7 +26,17 @@ const VEHICLES = [
   'hot-air-balloon', 'rocket', 'train',
 ];
 
-const ALL_SLUGS = [...ANIMALS, ...SEASONAL, ...FLOWERS, ...FOOD, ...VEHICLES];
+const ITEMS = [
+  'box', 'crown', 'heart', 'ribbon',
+  'shirt', 'shuriken', 'star',
+];
+
+const GEOMETRIC = [
+  'ball', 'cube', 'diamond', 'hexagon',
+  'pinwheel', 'spiral',
+];
+
+const ALL_SLUGS = [...ANIMALS, ...SEASONAL, ...FLOWERS, ...FOOD, ...VEHICLES, ...ITEMS, ...GEOMETRIC];
 
 const CONTENT_DIR = path.join(process.cwd(), 'content', 'posts');
 const STEPS_DIR = path.join(process.cwd(), 'public', 'images', 'origami', 'steps');

@@ -19,18 +19,57 @@ excerpt: "An elegant origami ribbon (bow) from a single sheet of paper. Perfect 
 ## Instructions
 
 1. Place the paper colored side down and fold it diagonally both ways to create creases, then unfold
+
+![Step 1](/images/origami/steps/ribbon/step-1.svg)
+
 2. Fold all four corners to the center point
+
+![Step 2](/images/origami/steps/ribbon/step-2.svg)
+
 3. Flip the paper over
+
+![Step 3](/images/origami/steps/ribbon/step-3.svg)
+
 4. Fold all four corners to the center point again
+
+![Step 4](/images/origami/steps/ribbon/step-4.svg)
+
 5. Flip the paper over once more
+
+![Step 5](/images/origami/steps/ribbon/step-5.svg)
+
 6. Fold all four corners to the center point a third time
+
+![Step 6](/images/origami/steps/ribbon/step-6.svg)
+
 7. Flip the paper over
+
+![Step 7](/images/origami/steps/ribbon/step-7.svg)
+
 8. Pull out the small square flaps from behind each corner and flatten them into petal shapes
+
+![Step 8](/images/origami/steps/ribbon/step-8.svg)
+
 9. Flip the paper over
+
+![Step 9](/images/origami/steps/ribbon/step-9.svg)
+
 10. Pull the four remaining flaps outward and flatten them — two will form the ribbon loops, two will form the tails
+
+![Step 10](/images/origami/steps/ribbon/step-10.svg)
+
 11. Fold the two tail flaps outward at a slight angle
+
+![Step 11](/images/origami/steps/ribbon/step-11.svg)
+
 12. Make a small cut at the end of each tail to create the classic forked ribbon shape
+
+![Step 12](/images/origami/steps/ribbon/step-12.svg)
+
 13. Shape the loops by rounding them gently with your fingers
+
+![Step 13](/images/origami/steps/ribbon/step-13.svg)
+
 
 ## Tips
 

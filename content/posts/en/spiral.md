@@ -19,14 +19,41 @@ excerpt: "A bouncy paper spring that actually stretches and compresses. A fun to
 ## Instructions
 
 1. Cut each sheet into strips about 2.5cm wide and 15cm long (you need 2 strips)
+
+![Step 1](/images/origami/steps/spiral/step-1.svg)
+
 2. Glue the end of one strip perpendicular to the end of the other strip, forming an L shape
+
+![Step 2](/images/origami/steps/spiral/step-2.svg)
+
 3. Fold the bottom strip over the top strip
+
+![Step 3](/images/origami/steps/spiral/step-3.svg)
+
 4. Fold the strip that is now on the bottom over the top strip
+
+![Step 4](/images/origami/steps/spiral/step-4.svg)
+
 5. Continue alternating folds — always folding the bottom strip over the top
+
+![Step 5](/images/origami/steps/spiral/step-5.svg)
+
 6. Keep folding until you reach the end of both strips
+
+![Step 6](/images/origami/steps/spiral/step-6.svg)
+
 7. Glue the final ends together
+
+![Step 7](/images/origami/steps/spiral/step-7.svg)
+
 8. Let the glue dry, then gently pull the two ends apart
+
+![Step 8](/images/origami/steps/spiral/step-8.svg)
+
 9. The spring will expand into a zigzag coil that bounces back when released
+
+![Step 9](/images/origami/steps/spiral/step-9.svg)
+
 
 ## Tips
 
